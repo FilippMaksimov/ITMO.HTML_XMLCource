@@ -1,0 +1,42 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<resume>
+	<candidate id="1">
+		<Name>Anna</Name>
+		<Lastname>Oshemkova</Lastname>
+		<PatronimicName>Petrovna</PatronimicName>
+		<WorkPlace type="Corporation">"Project"</WorkPlace>
+		<Position>manager</Position>
+		<DateOfBirth>12.09.1980</DateOfBirth>
+		<Education>higher</Education>
+		<Address>SPb, Lenin street 3-5</Address>
+		<PhoneNo>123-45-67</PhoneNo>
+		<FamilyStatus>married</FamilyStatus>
+		<DesiredSalary currency="RUR">30 000</DesiredSalary>
+	</candidate>
+	<candidate id="2">
+		<Name>Ivan</Name>
+		<Lastname>Sidorenko</Lastname>
+		<PatronimicName>Ivanovich</PatronimicName>
+		<WorkPlace type="Corporation">"RusSvet"</WorkPlace>
+		<Position>economist</Position>
+		<DateOfBirth>02.03.1968</DateOfBirth>
+		<Education>higher</Education>
+		<Address>SPb, Serpohovskaya street 13-9</Address>
+		<PhoneNo>987-65-43</PhoneNo>
+		<FamilyStatus>married</FamilyStatus>
+		<DesiredSalary currency="RUR">50 000</DesiredSalary>
+	</candidate>
+	<candidate id="3">
+		<Name>Olga</Name>
+		<Lastname>Gaashekova</Lastname>
+		<PatronimicName>Sergeevna</PatronimicName>
+		<WorkPlace type="Corporation">"Stroy"</WorkPlace>
+		<Position>sales manager</Position>
+		<DateOfBirth>19.12.1976</DateOfBirth>
+		<Education>Middle</Education>
+		<Address>SPb, Dbunovskaya street 12-4</Address>
+		<PhoneNo>122-33-44</PhoneNo>
+		<FamilyStatus>single</FamilyStatus>
+		<DesiredSalary currency="RUR">35 000</DesiredSalary>
+	</candidate>
+</resume>

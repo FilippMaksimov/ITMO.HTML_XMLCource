@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<lessons>
+	<subject name="Programming Technologies">
+		<InitialDate>26.09.2022</InitialDate>
+		<FinalDate>07.10.2022</FinalDate>
+		<LecturerLastname>Osipov</LecturerLastname>
+		<AppointedTime TimeZone = "GMT +3">18:30</AppointedTime>
+		<PassingExam>No</PassingExam>
+	</subject>
+	<subject name="Database Introduction">
+		<InitialDate>10.10.2022</InitialDate>
+		<FinalDate>20.10.2022</FinalDate>
+		<LecturerLastname>Yamshchikov</LecturerLastname>
+		<AppointedTime TimeZone = "GMT +3">18:30</AppointedTime>
+		<PassingExam>No</PassingExam>
+	</subject>
+	<subject name="CSharp programming">
+		<InitialDate>24.10.2022</InitialDate>
+		<FinalDate>08.11.2022</FinalDate>
+		<LecturerLastname>Smolyaninov</LecturerLastname>
+		<AppointedTime TimeZone = "GMT +3">18:30</AppointedTime>
+		<PassingExam>No</PassingExam>
+	</subject>
+	<subject name="T-SQL">
+		<InitialDate>14.11.2022</InitialDate>
+		<FinalDate>06.12.2022</FinalDate>
+		<LecturerLastname>Yamshchikov</LecturerLastname>
+		<AppointedTime TimeZone = "GMT +3">18:30</AppointedTime>
+		<PassingExam>Yes</PassingExam>
+	</subject>
+	<subject name="CSharp Application">
+		<InitialDate>12.12.2022</InitialDate>
+		<FinalDate>29.12.2022</FinalDate>
+		<LecturerLastname>Osipov</LecturerLastname>
+		<AppointedTime TimeZone = "GMT +3">18:30</AppointedTime>
+		<PassingExam>Yes</PassingExam>
+	</subject>
+	<subject name="HTML and XML">
+		<InitialDate>09.01.2023</InitialDate>
+		<FinalDate>13.01.2023</FinalDate>
+		<LecturerLastname>Smolyaninov</LecturerLastname>
+		<AppointedTime TimeZone = "GMT +3">18:30</AppointedTime>
+		<PassingExam>No</PassingExam>
+	</subject>
+</lessons>
